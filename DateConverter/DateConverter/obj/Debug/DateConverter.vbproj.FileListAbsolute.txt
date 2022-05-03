@@ -1,0 +1,16 @@
+C:\development\VisualStudio\DateConverter\DateConverter\bin\Debug\DateConverter.exe.config
+C:\development\VisualStudio\DateConverter\DateConverter\bin\Debug\DateConverter.exe
+C:\development\VisualStudio\DateConverter\DateConverter\bin\Debug\DateConverter.pdb
+C:\development\VisualStudio\DateConverter\DateConverter\bin\Debug\DateConverter.xml
+C:\development\VisualStudio\DateConverter\DateConverter\obj\Debug\DateConverter.vbproj.AssemblyReference.cache
+C:\development\VisualStudio\DateConverter\DateConverter\obj\Debug\DateConverter.Resources.resources
+C:\development\VisualStudio\DateConverter\DateConverter\obj\Debug\DateConverter.vbproj.GenerateResource.cache
+C:\development\VisualStudio\DateConverter\DateConverter\obj\Debug\DateConverter.vbproj.CoreCompileInputs.cache
+C:\development\VisualStudio\DateConverter\DateConverter\obj\Debug\DateConverter.exe
+C:\development\VisualStudio\DateConverter\DateConverter\obj\Debug\DateConverter.xml
+C:\development\VisualStudio\DateConverter\DateConverter\obj\Debug\DateConverter.pdb
+C:\development\VisualStudio\DateConverter\DateConverter\obj\Debug\DateConverter.Main.resources
+C:\development\VisualStudio\DateConverter\DateConverter\bin\Debug\DateConverter.exe.manifest
+C:\development\VisualStudio\DateConverter\DateConverter\bin\Debug\DateConverter.application
+C:\development\VisualStudio\DateConverter\DateConverter\obj\Debug\DateConverter.exe.manifest
+C:\development\VisualStudio\DateConverter\DateConverter\obj\Debug\DateConverter.application
