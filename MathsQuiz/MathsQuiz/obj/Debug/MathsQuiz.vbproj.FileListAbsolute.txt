@@ -1,0 +1,12 @@
+C:\development\VisualStudio\MathsQuiz\MathsQuiz\bin\Debug\MathsQuiz.exe.config
+C:\development\VisualStudio\MathsQuiz\MathsQuiz\bin\Debug\MathsQuiz.exe
+C:\development\VisualStudio\MathsQuiz\MathsQuiz\bin\Debug\MathsQuiz.pdb
+C:\development\VisualStudio\MathsQuiz\MathsQuiz\bin\Debug\MathsQuiz.xml
+C:\development\VisualStudio\MathsQuiz\MathsQuiz\obj\Debug\MathsQuiz.vbproj.AssemblyReference.cache
+C:\development\VisualStudio\MathsQuiz\MathsQuiz\obj\Debug\MathsQuiz.Form1.resources
+C:\development\VisualStudio\MathsQuiz\MathsQuiz\obj\Debug\MathsQuiz.Resources.resources
+C:\development\VisualStudio\MathsQuiz\MathsQuiz\obj\Debug\MathsQuiz.vbproj.GenerateResource.cache
+C:\development\VisualStudio\MathsQuiz\MathsQuiz\obj\Debug\MathsQuiz.vbproj.CoreCompileInputs.cache
+C:\development\VisualStudio\MathsQuiz\MathsQuiz\obj\Debug\MathsQuiz.exe
+C:\development\VisualStudio\MathsQuiz\MathsQuiz\obj\Debug\MathsQuiz.xml
+C:\development\VisualStudio\MathsQuiz\MathsQuiz\obj\Debug\MathsQuiz.pdb

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MathsQuiz
+</name>
+</assembly>
+<members>
+<member name="T:MathsQuiz.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MathsQuiz.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MathsQuiz.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:MathsQuiz.Form1.StartTheQuiz">
+ <summary>
+ Start the quiz by filling in all of the problems
+ and starting the timer.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:MathsQuiz.Form1.CheckTheAnswer">
+ <summary>
+ Check the answers to see if the user got everything right.
+ </summary>
+ <returns>True if the answer's correct, false otherwise.</returns>
+ <remarks></remarks>
+</member>
+<member name="M:MathsQuiz.Form1.answer_Enter(System.Object,System.EventArgs)">
+ <summary> 
+ Modify the behavior of the NumericUpDown control
+ to make it easier to enter numeric values for
+ the quiz.
+ </summary> 
+</member>
+</members>
+</doc>
