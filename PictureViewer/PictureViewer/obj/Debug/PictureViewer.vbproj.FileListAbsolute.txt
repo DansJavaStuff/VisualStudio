@@ -1,0 +1,13 @@
+C:\development\VisualStudio\PictureViewer\PictureViewer\bin\Debug\Picture Viewer.exe.config
+C:\development\VisualStudio\PictureViewer\PictureViewer\bin\Debug\Picture Viewer.exe
+C:\development\VisualStudio\PictureViewer\PictureViewer\bin\Debug\Picture Viewer.pdb
+C:\development\VisualStudio\PictureViewer\PictureViewer\bin\Debug\Picture Viewer.xml
+C:\development\VisualStudio\PictureViewer\PictureViewer\obj\Debug\PictureViewer.vbproj.AssemblyReference.cache
+C:\development\VisualStudio\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\development\VisualStudio\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Resources.resources
+C:\development\VisualStudio\PictureViewer\PictureViewer\obj\Debug\PictureViewer.UserControl1.resources
+C:\development\VisualStudio\PictureViewer\PictureViewer\obj\Debug\PictureViewer.vbproj.GenerateResource.cache
+C:\development\VisualStudio\PictureViewer\PictureViewer\obj\Debug\PictureViewer.vbproj.CoreCompileInputs.cache
+C:\development\VisualStudio\PictureViewer\PictureViewer\obj\Debug\Picture Viewer.exe
+C:\development\VisualStudio\PictureViewer\PictureViewer\obj\Debug\Picture Viewer.xml
+C:\development\VisualStudio\PictureViewer\PictureViewer\obj\Debug\Picture Viewer.pdb
